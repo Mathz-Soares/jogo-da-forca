@@ -1,4 +1,4 @@
-palavra = "jogo"
+from words import palavra
 letras_chute = []
 chances = 10
 ganhou = False
